@@ -4,7 +4,7 @@ It demonstrates a few concepts:
 
 1. Maze generation using the simplest (recursive backtracking) algorithm. Rust is very competent at tail-recursion algorithms like this, so it is extremely performant. See some alternatives at [Wikipedia](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 
-2. Pathfinding (in the generated maze) using the A\* pathfinding algorithm.
+2. Pathfinding (in the generated maze) using the A\* pathfinding (algorithm)[https://en.wikipedia.org/wiki/A*_search_algorithm].
 
 3. Rust/WASM interaction. Most of the skeleton of the app was built from and inspired by the Rust WASM "Game of Life" demo (see [here](https://rustwasm.github.io/docs/book/game-of-life/introduction.html))
 
